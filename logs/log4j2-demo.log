@@ -1,0 +1,39 @@
+2019-09-23 23:25:41.123  INFO DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2demoApplication              : Starting Log4j2demoApplication on DESKTOP-IKOMI1V with PID 14736 (C:\Users\leste\IdeaProjects\log4j2demo\target\classes started by leste in C:\Users\leste\IdeaProjects\log4j2demo)
+2019-09-23 23:25:41.124 DEBUG DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2demoApplication              : Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-23 23:25:41.125  INFO DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2demoApplication              : No active profile set, falling back to default profiles: default
+2019-09-23 23:25:41.648  INFO DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2demoApplication              : Started Log4j2demoApplication in 0.924 seconds (JVM running for 3.23)
+2019-09-23 23:25:41.649 DEBUG DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2demoApplication              : Debugging log
+2019-09-23 23:25:41.649  INFO DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2demoApplication              : Info log
+2019-09-23 23:25:41.649  WARN DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2demoApplication              : Hey, This is a warning!
+2019-09-23 23:25:41.649 ERROR DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2demoApplication              : Oops! We have an Error. OK
+2019-09-23 23:25:41.649 FATAL DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2demoApplication              : Damn! Fatal error. Please fix me.
+2019-09-23 23:27:18.300  INFO DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2DemoApplication              : Starting Log4j2DemoApplication on DESKTOP-IKOMI1V with PID 7236 (C:\Users\leste\IdeaProjects\log4j2demo\target\classes started by leste in C:\Users\leste\IdeaProjects\log4j2demo)
+2019-09-23 23:27:18.308 DEBUG DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2DemoApplication              : Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-23 23:27:18.309  INFO DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2DemoApplication              : No active profile set, falling back to default profiles: default
+2019-09-23 23:27:19.020  INFO DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2DemoApplication              : Started Log4j2DemoApplication in 1.131 seconds (JVM running for 2.896)
+2019-09-23 23:27:19.021 DEBUG DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2DemoApplication              : Debugging log
+2019-09-23 23:27:19.021  INFO DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2DemoApplication              : Info log
+2019-09-23 23:27:19.021  WARN DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2DemoApplication              : Hey, This is a warning!
+2019-09-23 23:27:19.021 ERROR DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2DemoApplication              : Oops! We have an Error. OK
+2019-09-23 23:27:19.021 FATAL DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2DemoApplication              : Damn! Fatal error. Please fix me.
+2019-09-23 23:31:20.092  INFO DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2DemoApplication              : Starting Log4j2DemoApplication on DESKTOP-IKOMI1V with PID 14936 (C:\Users\leste\IdeaProjects\log4j2demo\target\classes started by leste in C:\Users\leste\IdeaProjects\log4j2demo)
+2019-09-23 23:31:20.099 DEBUG DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2DemoApplication              : Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-23 23:31:20.100  INFO DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2DemoApplication              : No active profile set, falling back to default profiles: default
+2019-09-23 23:31:21.315  INFO DESKTOP-IKOMI1V --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2019-09-23 23:31:21.397  INFO DESKTOP-IKOMI1V --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2019-09-23 23:31:21.410  INFO DESKTOP-IKOMI1V --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2019-09-23 23:31:21.410  INFO DESKTOP-IKOMI1V --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-23 23:31:21.509  INFO DESKTOP-IKOMI1V --- [           main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2019-09-23 23:31:21.510  INFO DESKTOP-IKOMI1V --- [           main] o.s.w.c.ContextLoader                    : Root WebApplicationContext: initialization completed in 1356 ms
+2019-09-23 23:31:21.733  INFO DESKTOP-IKOMI1V --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-23 23:31:21.891  INFO DESKTOP-IKOMI1V --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2019-09-23 23:31:21.932  INFO DESKTOP-IKOMI1V --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path ''
+2019-09-23 23:31:21.936  INFO DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2DemoApplication              : Started Log4j2DemoApplication in 2.294 seconds (JVM running for 4.114)
+2019-09-23 23:31:21.939 DEBUG DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2DemoApplication              : Debugging log
+2019-09-23 23:31:21.939  INFO DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2DemoApplication              : Info log
+2019-09-23 23:31:21.939  WARN DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2DemoApplication              : Hey, This is a warning!
+2019-09-23 23:31:21.940 ERROR DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2DemoApplication              : Oops! We have an Error. OK
+2019-09-23 23:31:21.940 FATAL DESKTOP-IKOMI1V --- [           main] c.e.l.Log4j2DemoApplication              : Damn! Fatal error. Please fix me.
+2019-09-23 23:31:52.368  INFO DESKTOP-IKOMI1V --- [nio-8080-exec-1] o.a.c.c.C.[.[.[/]                        : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-23 23:31:52.369  INFO DESKTOP-IKOMI1V --- [nio-8080-exec-1] o.s.w.s.DispatcherServlet                : Initializing Servlet 'dispatcherServlet'
+2019-09-23 23:31:52.379  INFO DESKTOP-IKOMI1V --- [nio-8080-exec-1] o.s.w.s.DispatcherServlet                : Completed initialization in 10 ms
